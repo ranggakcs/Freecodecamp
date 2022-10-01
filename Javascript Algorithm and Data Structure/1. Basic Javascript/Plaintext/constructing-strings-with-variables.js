@@ -1,0 +1,5 @@
+// Only change code below this line
+const myName = "Rangga Kusumah";
+const myStr = "My name is " +myName+ " and i am well";
+
+console.log(myStr);
